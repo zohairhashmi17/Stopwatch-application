@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right, #bdc3c7,#2c3e50 ) !important;
+    text-align: center;
+}
+.dispay-4{
+    color: black !important;
+    font-weight: lighter !important;
+    font-family: 'Suez One', serif !important;
+}
+h2{
+    color:black;
+    width: 200px;
+    display: inline-block;
+    text-align: center;
+    font-family: 'Oswald', sans-serif !important;
+}
+button{
+    color: black;
+    width: 200px;
+    height: 70px;
+    font-family: 'Oswald', sans-serif !important;
+    font-size: 40px !important;
+}
+.button1,.button2,.button3{
+    background: linear-gradient(to right, #2193b0,#6dd5ed ) !important;
+    border-radius: 50px;
+}
